@@ -20,3 +20,8 @@ Key Features
     -Character smoothly transitions between standing and crouched states based on pitch angle
     -Character can step up onto changes in terrain
     -ACOG Sight
+
+Video Links
+
+    Latest Version: https://youtu.be/oEw9RJOBao8
+    Previous Version: https://youtu.be/uRuh0GrzCF8
